@@ -45,6 +45,5 @@ Suggests:
     bslib,
     downlit,
     xml2
-Remotes:
-    rstudio/bookdown
+Remotes: ropensci/gutenbergr
 Encoding: UTF-8
